@@ -1,0 +1,5 @@
+set -tmpdir "D:/4VP23AI011/half_adder/xst/projnav.tmp"
+set -xsthdpdir "D:/4VP23AI011/half_adder/xst"
+elaborate
+-ifn half_adder.prj
+-ifmt mixed
